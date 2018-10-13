@@ -1,7 +1,7 @@
 # granularitySearch<br>
 keywords: granularity, attribute reduction, granularity space<br>
   I just want construct a heuristic algorithm which can finding attribute reduct with positive region preservation, generalize decision preservation, distribution preservation, maximal distribution preservation, relative indiscernibility preservation in Rough Sets theory. I name that algorithm granularity search.<br>
-  In this project, I reproduce three existing classic heuristic attribute reduction algorithm in paper [1,2]. Then, I compare my algorithm speed with existing algorithm.<br>
+  In this project, I reproduce three existing classic heuristic attribute reduction algorithm in paper [1,2]. Then, I compare speed of my algorithm with existing algorithm.<br>
   continue...<br>
 
 bibiliography:<br>
