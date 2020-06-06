@@ -1,0 +1,13 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: document.aux
+The style file: plain.bst
+Database file #1: mybib.bib
+Repeated entry---line 364 of file mybib.bib
+ : @incollection{yao2008reduct
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 411 of file mybib.bib
+ : @article{jia2013minimum
+ :                        ,
+I'm skipping whatever remains of this entry
+Warning--empty year in PedryczGranular
+(There were 2 error messages)

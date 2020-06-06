@@ -1,0 +1,294 @@
+\begin{thebibliography}{10}
+
+\bibitem{das2016ierspop}
+Ron~Tor Das, Kai~Keng Ang, and Chai Quek.
+\newblock ierspop: a novel incremental rough set-based pseudo outer-product
+  with ensemble learning.
+\newblock {\em Applied Soft Computing}, 46:170--186, 2016.
+
+\bibitem{Dash2003Consistency}
+Manoranjan Dash and Huan Liu.
+\newblock Consistency-based search in feature selection.
+\newblock {\em Artificial Intelligence}, 151(1):155--176, 2003.
+
+\bibitem{deng2006new}
+Da~Yong Deng and Hou~Kuan Huang.
+\newblock A new discernibility matrix and function.
+\newblock In {\em International Conference on Rough Sets and Knowledge
+  Technology}, pages 114--121. Springer, 2006.
+
+\bibitem{deng2009improved}
+Ting~Quan Deng, Cheng~Dong Yang, Yue~Tong Zhang, and Xin~Xia Wang.
+\newblock An improved ant colony optimization applied to attributes reduction.
+\newblock In {\em Fuzzy Information and Engineering}, pages 1--6. Springer,
+  2009.
+
+\bibitem{Dua:2019}
+Dheeru Dua and Casey Graff.
+\newblock {UCI} machine learning repository, 2017.
+
+\bibitem{ge2017quick}
+Hao Ge, Long~Shu Li, Yi~Xu, and Chuan~Jian Yang.
+\newblock Quick general reduction algorithms for inconsistent decision tables.
+\newblock {\em International Journal of Approximate Reasoning}, 82:56--80,
+  2017.
+
+\bibitem{Hu2007Consistency}
+Qing~Hua Hu, Hui Zhao, Zong~Xia Xie, and Da~Ren Yu.
+\newblock Consistency based attribute reduction.
+\newblock In {\em Pacific-Asia Conference on Knowledge Discovery and Data
+  Mining}, pages 96--107. Springer, 2007.
+
+\bibitem{hu1995learning}
+Xiao~Hua Hu and Nick Cercone.
+\newblock Learning in relational databases: a rough set approach.
+\newblock {\em Computational intelligence}, 11(2):323--338, 1995.
+
+\bibitem{hu2015flow}
+YiChung Hu.
+\newblock Flow-based tolerance rough sets for pattern classification.
+\newblock {\em Applied Soft Computing}, 27:322--331, 2015.
+
+\bibitem{huang2012enhanced}
+Kuang~Yu Huang.
+\newblock An enhanced classification method comprising a genetic algorithm,
+  rough set theory and a modified pbmf-index function.
+\newblock {\em Applied Soft Computing}, 12(1):46--63, 2012.
+
+\bibitem{Huang2016}
+Kuang~Yu Huang and I-Hui Li.
+\newblock A multi-attribute decision-making model for the robust classification
+  of multiple inputs and outputs datasets with uncertainty.
+\newblock {\em Applied Soft Computing}, 38:176--189, 2016.
+
+\bibitem{jensen2004semantics}
+Richard Jensen and Qiang Shen.
+\newblock Semantics-preserving dimensionality reduction: rough and
+  fuzzy-rough-based approaches.
+\newblock {\em IEEE Transactions on knowledge and data engineering},
+  16(12):1457--1471, 2004.
+
+\bibitem{jia2013minimum}
+Xiu~Yi Jia, Wen~He Liao, Zhen~Min Tang, and Lin Shang.
+\newblock Minimum cost attribute reduction in decision-theoretic rough set
+  models.
+\newblock {\em Information Sciences}, 219:151--167, 2013.
+
+\bibitem{jia2016generalized}
+Xiu~Yi Jia, Lin Shang, Bing Zhou, and Yi~Yu Yao.
+\newblock Generalized attribute reduct in rough set theory.
+\newblock {\em Knowledge-Based Systems}, 91:204--218, 2016.
+
+\bibitem{kaya2013hybrid}
+Y{\i}lmaz Kaya and Murat Uyar.
+\newblock A hybrid decision support system based on rough set and extreme
+  learning machine for diagnosis of hepatitis disease.
+\newblock {\em Applied Soft Computing}, 13(8):3429--3438, 2013.
+
+\bibitem{ke2008efficient}
+Liang~Jun Ke, Zu~Ren Feng, and Zhi~Gang Ren.
+\newblock An efficient ant colony optimization approach to attribute reduction
+  in rough set theory.
+\newblock {\em Pattern Recognition Letters}, 29(9):1351--1357, 2008.
+
+\bibitem{kryszkiewicz2001comparative}
+Marzena Kryszkiewicz.
+\newblock Comparative study of alternative types of knowledge reduction in
+  inconsistent systems.
+\newblock {\em International journal of intelligent systems}, 16(1):105--120,
+  2001.
+
+\bibitem{li2009approaches}
+Fei Li and Yun~Qiang Yin.
+\newblock Approaches to knowledge reduction of covering decision systems based
+  on information theory.
+\newblock {\em Information Sciences}, 179(11):1694--1704, 2009.
+
+\bibitem{li2014quick}
+Min Li, Chang~Xing Shang, Sheng~Zhong Feng, and Jian~Ping Fan.
+\newblock Quick attribute reduction in inconsistent decision tables.
+\newblock {\em Information Sciences}, 254:155--180, 2014.
+
+\bibitem{liang2013accelerator}
+Ji~Ye Liang, Jun~Rong Mi, Wei Wei, and Feng Wang.
+\newblock An accelerator for attribute reduction based on perspective of
+  objects and attributes.
+\newblock {\em Knowledge-Based Systems}, 44:90--100, 2013.
+
+\bibitem{liu2006knowledge}
+Qi~He Liu, Leiting Chen, Jian~Zhong Zhang, and Fan Min.
+\newblock Knowledge reduction in inconsistent decision tables.
+\newblock In Xue Li, Osmar~R. Za{\"i}ane, and Zhanhuai Li, editors, {\em
+  Advanced Data Mining and Applications}, pages 626--635, Berlin, Heidelberg,
+  2006. Springer Berlin Heidelberg.
+
+\bibitem{meng2009fast}
+Zu~Qiang Meng and Zhong~Zhi Shi.
+\newblock A fast approach to attribute reduction in incomplete decision systems
+  with tolerance relation-based rough sets.
+\newblock {\em Information Sciences}, 179(16):2774--2793, 2009.
+
+\bibitem{miao2009relative}
+Duo~Qian Miao, Yan Zhao, Yi~Yu Yao, H~X Li, and Fei~Fei Xu.
+\newblock Relative reducts in consistent and inconsistent decision tables of
+  the pawlak rough set model.
+\newblock {\em Information Sciences}, 179(24):4140--4150, 2009.
+
+\bibitem{Pawlak1982}
+Zdzis{\l}aw Pawlak.
+\newblock Rough sets.
+\newblock {\em International Journal of Computer {\&} Information Sciences},
+  11(5):341--356, Oct 1982.
+
+\bibitem{scikit-learn}
+F.~Pedregosa, G.~Varoquaux, A.~Gramfort, V.~Michel, B.~Thirion, O.~Grisel,
+  M.~Blondel, P.~Prettenhofer, R.~Weiss, V.~Dubourg, J.~Vanderplas, A.~Passos,
+  D.~Cournapeau, M.~Brucher, M.~Perrot, and E.~Duchesnay.
+\newblock Scikit-learn: Machine learning in {P}ython.
+\newblock {\em Journal of Machine Learning Research}, 12:2825--2830, 2011.
+
+\bibitem{qian2011hybrid}
+Jin Qian, Duo~Qian Miao, Z~H Zhang, and W~Li.
+\newblock Hybrid approaches to attribute reduction based on indiscernibility
+  and discernibility relation.
+\newblock {\em International Journal of Approximate Reasoning}, 52(2):212--230,
+  2011.
+
+\bibitem{qian2010positive}
+Yu~Hua Qian, Ji~Ye Liang, Witold Pedrycz, and Chuang~Yin Dang.
+\newblock Positive approximation: an accelerator for attribute reduction in
+  rough set theory.
+\newblock {\em Artificial Intelligence}, 174(9-10):597--618, 2010.
+
+\bibitem{Shi2016}
+Jiao Shi, Yu~Lei, Ying Zhou, and Maoguo Gong.
+\newblock Enhanced rough--fuzzy c-means algorithm with strict rough sets
+  properties.
+\newblock {\em Applied Soft Computing}, 46:827--850, 2016.
+
+\bibitem{skowron1992discernibility}
+Andrzej Skowron and Cecylia Rauszer.
+\newblock The discernibility matrices and functions in information systems.
+\newblock In {\em Intelligent decision support}, pages 331--362. Springer,
+  1992.
+
+\bibitem{skowron1991towards}
+Andrzej Skowron and Jaroslaw Stepaniuk.
+\newblock Towards an approximation theory of discrete problems, part i.
+\newblock {\em Fundam. Inform.}, 15(2):187--207, 1991.
+
+\bibitem{Sun2017Continuous}
+Hai~Rong Sun, Wang Rui, Bi~Xia Xie, and Tian Yao.
+\newblock Continuous attribute reduction method based on an automatic
+  clustering algorithm and decision entropy.
+\newblock In {\em Control Conference}, 2017.
+
+\bibitem{thangavel2009}
+K~Thangavel and A~Pethalakshmi.
+\newblock Dimensionality reduction based on rough set theory: A review.
+\newblock {\em Applied Soft Computing}, 9(1):1--12, 2009.
+
+\bibitem{thangavel2009dimensionality}
+K~Thangavel and A~Pethalakshmi.
+\newblock Dimensionality reduction based on rough set theory: A review.
+\newblock {\em Applied Soft Computing}, 9(1):1--12, 2009.
+
+\bibitem{tian2013rough}
+Jing Tian, Quan Wang, Bing Yu, and Dan Yu.
+\newblock A rough set algorithm for attribute reduction via mutual information
+  and conditional entropy.
+\newblock In {\em 2013 10th International Conference on Fuzzy Systems and
+  Knowledge Discovery (FSKD)}, pages 567--571. IEEE, 2013.
+
+\bibitem{wang2013attribute}
+Feng Wang, Jiye Liang, and Chuangyin Dang.
+\newblock Attribute reduction for dynamic data sets.
+\newblock {\em Applied Soft Computing}, 13(1):676--689, 2013.
+
+\bibitem{Wang1998Analysis}
+Jue Wang and Duo~Qian Miao.
+\newblock Analysis on attribute reduction strategies of rough set.
+\newblock {\em Journal of computer science and technology}, 13(2):189--192,
+  1998.
+
+\bibitem{wang2001reduction}
+Jue Wang and Ju~Wang.
+\newblock Reduction algorithms based on discernibility matrix: the ordered
+  attributes method.
+\newblock {\em Journal of computer science and technology}, 16(6):489--504,
+  2001.
+
+\bibitem{wei2010relation}
+Ling Wei and Jian~Jun Qi.
+\newblock Relation between concept lattice reduction and rough set reduction.
+\newblock {\em Knowledge-Based Systems}, 23(8):934--938, 2010.
+
+\bibitem{PedryczGranular}
+Pedrycz Witold.
+\newblock Granular computing for data analytics: a manifesto of human-centric
+  computing.
+\newblock {\em IEEE/CAA Journal of Automatica Sinica}, 5(6):1025--1034.
+
+\bibitem{xie2018test}
+Xiaojun Xie, Xiaolin Qin, Chunqiang Yu, and Xingye Xu.
+\newblock Test-cost-sensitive rough set based approach for minimum weight
+  vertex cover problem.
+\newblock {\em Applied Soft Computing}, 64:423--435, 2018.
+
+\bibitem{xu2009efficient}
+Zhang~Yan Xu, Li~Yu Huang, and Bing~Ru Yang.
+\newblock Efficient attribute reduction algorithm based on skowron
+  discernibility matrix.
+\newblock In {\em 2009 International Workshop on Intelligent Systems and
+  Applications}, pages 1--4. IEEE, 2009.
+
+\bibitem{xu2006quick}
+Zhang~Yan Xu, Zuo~peng Liu, Bing~Ru Yang, and Wei Song.
+\newblock A quick attribute reduction algorithm with complexity of max (o (│
+  c││ u│), o (│ c│\^{} 2│ u/c│)).
+\newblock {\em Jisuanji Xuebao(Chinese Journal of Computers)}, 29(3):391--399,
+  2006.
+
+\bibitem{Yan2017Entropy}
+Tao Yan and Chong~Zhao Han.
+\newblock Entropy based attribute reduction approach for incomplete decision
+  table.
+\newblock In {\em International Conference on Information Fusion}, 2017.
+
+\bibitem{yao2009discernibility}
+Yi~Yu Yao and Yan Zhao.
+\newblock Discernibility matrix simplification for constructing attribute
+  reducts.
+\newblock {\em Information sciences}, 179(7):867--882, 2009.
+
+\bibitem{yao2008reduct}
+Yiyu Yao, Yan Zhao, and Jue Wang.
+\newblock On reduct construction algorithms.
+\newblock In {\em Transactions on computational science II}, pages 100--117.
+  Springer, 2008.
+
+\bibitem{yu2011solving}
+Hong Yu, Guo~Yin Wang, and Fakuan Lan.
+\newblock Solving the attribute reduction problem with ant colony optimization.
+\newblock In {\em Transactions on rough sets XIII}, pages 240--259. Springer,
+  2011.
+
+\bibitem{zhan2017}
+Jianming Zhan, Muhammad~Irfan Ali, and Nayyar Mehmood.
+\newblock On a novel uncertain soft set model: Z-soft fuzzy rough set model and
+  corresponding decision making methods.
+\newblock {\em Applied Soft Computing}, 56:446--457, 2017.
+
+\bibitem{zhang2003knowledge}
+Wen~Xiu Zhang, Ju~Sheng Mi, and Wei~Zhi Wu.
+\newblock Knowledge reductions in inconsistent information systems.
+\newblock {\em Chinese Journal of Computers-Chinese Edition}, 26(1):12--18,
+  2003.
+
+\bibitem{zhou2011analysis}
+Jie Zhou, Duo~Qian Miao, Witold Pedrycz, and Hong~Yun Zhang.
+\newblock Analysis of alternative objective functions for attribute reduction
+  in complete decision tables.
+\newblock {\em Soft Computing}, 15(8):1601--1616, 2011.
+
+\end{thebibliography}
